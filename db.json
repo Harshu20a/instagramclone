@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "profileImg": "https://img.freepik.com/free-photo/side-view-female-astronaut-wearing-spacesuit_23-2150417568.jpg?w=360",
+      "username": "astronaut",
+      "follow": "follow",
+      "cardImg": "https://img.freepik.com/free-photo/full-shot-astronaut-wearing-equipment_23-2151075885.jpg?w=826",
+      "followers":"Follower 500",
+      "following": "Following 400",
+      "seeMore":" Followed by Butterfly , Birds and 5 other...."
+    },
+    {
+      "id": 2,
+      "profileImg": "https://img.freepik.com/free-photo/3d-rendering-mannequin-wearing-glasses-tie_1142-38799.jpg?w=360",
+      "username": "Romit",
+      "follow": "follow",
+      "cardImg": "https://img.freepik.com/premium-photo/man-green-jacket-is-standing-dark-room_905510-51782.jpg?w=740",
+      "followers":"Follower 700",
+      "following": "Following 400",
+      "seeMore":"Followed by Astronaut , Butterfly and 5 other...."
+    },
+    {
+      "id": 4,
+      "profileImg": "https://img.freepik.com/free-photo/closeup-shot-beautiful-butterfly-with-interesting-textures-orange-petaled-flower_181624-7640.jpg?w=826",
+      "username": "Butterfly",
+      "follow": "follow",
+      "cardImg": "https://img.freepik.com/free-photo/beautiful-butterfly-nature_23-2150765905.jpg?w=826",
+      "followers":"Follower 900",
+      "following": "Following 500",
+      "seeMore":" Followed by Butterfly , Birds and 5 other...."
+    },
+    {
+      "id": 5,
+      "profileImg": "https://img.freepik.com/premium-photo/night-landscape-with-lake-trees-full-moon-lightgenerative-ai_391052-19339.jpg?w=900",
+      "username": "Earth",
+      "follow": "follow",
+      "cardImg": "https://img.freepik.com/premium-photo/winter-landscape-with-snowy-road-trees-sunsetgenerative-ai_391052-14124.jpg?w=900",
+      "followers":"Follower 500",
+      "following": "Following 400",
+      "seeMore":" Followed by Butterfly , Birds and 5 other...."
+    },
+    {
+      "id": 6,
+      "profileImg": "https://img.freepik.com/premium-photo/colorful-bird-with-long-beak-is-flying-air_81048-4099.jpg?w=740",
+      "username": "Birds",
+      "follow": "follow",
+      "cardImg": "https://img.freepik.com/free-photo/selective-focus-shot-hummingbird-flight_181624-56855.jpg?w=740",
+      "followers":"Follower 500",
+      "following": "Following 400",
+      "seeMore":"Followed by Universal , Birds and 5 other...."
+    },
+    {
+      "id": 7,
+      "profileImg": "https://img.freepik.com/free-photo/digital-art-galaxy_23-2151050612.jpg?w=740",
+      "username": "Universe",
+      "follow": "follow",
+      "cardImg": "https://img.freepik.com/free-photo/planets-solar-system_23-2150042456.jpg?w=826",
+      "followers":"Follower 600",
+      "following": "Following 400",
+      "seeMore":"  Followed by Birds and 5 other....."
+    },
+    {
+      "id": 8,
+      "profileImg": "https://img.freepik.com/free-photo/spring-flowers-garden-ai-generated_268835-8259.jpg?w=826",
+      "username": "Flower",
+      "follow": "follow",
+      "cardImg": "https://img.freepik.com/premium-photo/colorful-flower-with-green-leaf_1028782-202526.jpg?w=826",
+      "followers":"Follower 500",
+      "following": "Following 400",
+      "seeMore":" Followed by Butterfly , Birds and 5 other...."
+    }
+  ]
+}
+ 
